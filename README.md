@@ -1,6 +1,8 @@
 # Dotfiles Syntax Highlighting for VS Code
 
-[![license](https://img.shields.io/github/license/dotiful/vscode-dotfiles-syntax.svg?style=flat-square)](https://github.com/dotiful/vscode-dotfiles-syntax/blob/master/LICENSE.md)
+[![vsmarketplacebadge](https://flat.badgen.net/vs-marketplace/i/dotiful.dotfiles-syntax-highlighting)](https://marketplace.visualstudio.com/items?itemName=dotiful.dotfiles-syntax-highlighting)
+[![github-release](https://flat.badgen.net/github/release/dotiful/vscode-dotfiles-syntax)](https://marketplace.visualstudio.com/items?itemName=dotiful.dotfiles-syntax-highlighting)
+[![license](https://flat.badgen.net/github/license/dotiful/vscode-dotfiles-syntax)](https://github.com/dotiful/vscode-dotfiles-syntax/blob/master/LICENSE.md)
 
 ## Features
 
@@ -15,7 +17,7 @@ PR to add more file extensions, tweaks, etc.
 ## Supported file types
 
 - <details>
-  <summary>extensions</summary>
+    <summary>extensions</summary>
 
   - `.ackrc`
   - `.aliases`
@@ -78,7 +80,7 @@ PR to add more file extensions, tweaks, etc.
   </details>
 
 - <details>
-  <summary>filenames</summary>
+    <summary>filenames</summary>
 
   - `symlink`
   - `zshrc`
