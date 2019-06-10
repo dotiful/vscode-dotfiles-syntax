@@ -1,7 +1,7 @@
 # Dotfiles Syntax Highlighting for VS Code
 
 [![vsmarketplacebadge](https://flat.badgen.net/vs-marketplace/i/dotiful.dotfiles-syntax-highlighting)](https://marketplace.visualstudio.com/items?itemName=dotiful.dotfiles-syntax-highlighting)
-[![github-release](https://flat.badgen.net/github/release/dotiful/vscode-dotfiles-syntax)](https://marketplace.visualstudio.com/items?itemName=dotiful.dotfiles-syntax-highlighting)
+[![github-release](https://flat.badgen.net/github/release/dotiful/vscode-dotfiles-syntax)](https://github.com/dotiful/vscode-dotfiles-syntax/releases/tag/v0.0.1)
 [![license](https://flat.badgen.net/github/license/dotiful/vscode-dotfiles-syntax)](https://github.com/dotiful/vscode-dotfiles-syntax/blob/master/LICENSE.md)
 
 ## Features
