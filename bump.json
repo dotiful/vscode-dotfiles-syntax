@@ -1,0 +1,14 @@
+{
+  "tag": {
+    "enabled": true,
+    "name": "[version]"
+  },
+  "release": {
+    "github": {
+      "enabled": true,
+      "files": [
+        "out/**"
+      ]
+    }
+  }
+}
