@@ -28,9 +28,7 @@
     "languages": [
       {
         "id": "shellscript",
-        "aliases": [
-          "Shell Script"
-        ],
+        "aliases": [ "Shell Script" ],
         "extensions": [
           "ackrc",
           "aliases",
@@ -64,7 +62,8 @@
           "symlink",
           "wgetrc",
           "xsessionrc",
-          "zpreztorc"
+          "zpreztorc",
+          "zshrc.local"
         ],
         "filenames": [
           "symlink",
