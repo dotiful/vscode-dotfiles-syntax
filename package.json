@@ -74,7 +74,8 @@
           "zprofile",
           "zshenv",
           "zshrc"
-        ]
+        ],
+        "firstLine": "^#\\s*compdef"
       }
     ]
   },

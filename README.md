@@ -19,76 +19,52 @@ PR to add more file extensions, tweaks, etc.
 - <details>
     <summary>extensions</summary>
 
-  - `.ackrc`
-  - `.aliases`
-  - `.antigen`
-  - `.bash_aliases`
-  - `.bash_profile`
-  - `.bash_logout`
-  - `.bash_prompt`
-  - `.bashrc`
-  - `.brew`
-  - `.cshrc`
-  - `.curlrc`
-  - `.dircolors`
-  - `.env`
-  - `.env.development`
-  - `.env.test`
-  - `.env.production`
-  - `.env.local`
-  - `.env.development.local`
-  - `.env.test.local`
-  - `.env.production.local`
-  - `.env.example`
-  - `.env.testing`
-  - `.env.dusk.testing`
-  - `.env.dusk.local`
-  - `.envrc`
-  - `.eslintignore`
-  - `.exports`
-  - `.extra`
-  - `.functions`
-  - `.git`
-  - `.gitattributes`
-  - `.gitconfig`
-  - `.gitignore`
-  - `.gitignore_global`
-  - `.gitmodules`
-  - `.hushlogin`
-  - `.inputrc`
-  - `.jsbeautifyrc`
-  - `.jshintignore`
-  - `.lftprc`
-  - `.npmignore`
-  - `.npmrc`
-  - `.osx`
-  - `.packages`
-  - `.pkginit`
-  - `.profile`
-  - `.screenrc`
-  - `.symlink`
-  - `.zlogin`
-  - `.zlogout`
-  - `.zprofile`
-  - `.zshenv`
-  - `.zshrc`
-  - `.zsh-theme`
-  - `.zpreztorc`
-  - `.xsessionrc`
-  - `.wgetrc`
+    - `ackrc`
+    - `aliases`
+    - `antigen`
+    - `bash`
+    - `brew`
+    - `cshrc`
+    - `curlrc`
+    - `dircolors`
+    - `editorconfig`
+    - `env`
+    - `envrc`
+    - `exports`
+    - `extra`
+    - `functions`
+    - `git`
+    - `gitattributes`
+    - `gitconfig`
+    - `gitignore`
+    - `gitmodules`
+    - `hushlogin`
+    - `inputrc`
+    - `jshintignore`
+    - `npmignore`
+    - `npmrc`
+    - `osx`
+    - `packages`
+    - `path`
+    - `pkginit`
+    - `screenrc`
+    - `symlink`
+    - `wgetrc`
+    - `xsessionrc`
+    - `zpreztorc`
 
   </details>
 
 - <details>
     <summary>filenames</summary>
 
-  - `symlink`
-  - `zshrc`
-  - `zshenv`
-  - `zlogin`
-  - `zlogout`
-  - `zprofile`
-  - `zpreztorc`
+    - `symlink`
+    - `zlogin`
+    - `zlogout`
+    - `zpreztorc`
+    - `zprofile`
+    - `zshenv`
+    - `zshrc`
 
   </details>
 
