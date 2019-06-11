@@ -76,6 +76,11 @@
           "zshrc"
         ],
         "firstLine": "^#\\s*compdef"
+      },
+      {
+        "id": "ruby",
+        "aliases": [ "Ruby", "ruby" ],
+        "extensions": [ "gemrc" ]
       }
     ]
   },

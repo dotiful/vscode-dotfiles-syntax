@@ -6,10 +6,10 @@
 
 ## Features
 
-Shellscript syntax highlighting for common dotfiles .
+Syntax highlight for common dotfiles.
 
-Based on [Sublime Text](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
-package by [@mattbanks](https://github.com/mattbanks) and contributors.
+Inspired by [Sublime Text](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
+© [@mattbanks](https://github.com/mattbanks).
 
 Contributions are greatly appreciated. Please fork this repository and open a
 PR to add more file extensions, tweaks, etc.
@@ -33,6 +33,7 @@ PR to add more file extensions, tweaks, etc.
     - `exports`
     - `extra`
     - `functions`
+    - `gemrc`
     - `git`
     - `gitattributes`
     - `gitconfig`
