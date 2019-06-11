@@ -6,7 +6,7 @@
 
 ## Features
 
-Syntax highlight for common dotfiles.
+Provides syntax highlighting for dotfiles.
 
 Inspired by [Sublime Text](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
 © [@mattbanks](https://github.com/mattbanks).
