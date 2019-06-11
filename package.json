@@ -35,10 +35,7 @@
           "ackrc",
           "aliases",
           "antigen",
-          "bash_aliases",
-          "bash_profile",
           "bash_prompt",
-          "bashrc",
           "brew",
           "cshrc",
           "curlrc",
@@ -46,7 +43,6 @@
           "editorconfig",
           "env",
           "envrc",
-          "eslintignore",
           "exports",
           "extra",
           "functions",
@@ -64,27 +60,20 @@
           "packages",
           "path",
           "pkginit",
-          "profile",
           "screenrc",
           "symlink",
-          "zlogin",
-          "zlogout",
-          "zprofile",
-          "zshenv",
-          "zshrc",
-          "zsh-theme",
-          "zpreztorc",
+          "wgetrc",
           "xsessionrc",
-          "wgetrc"
+          "zpreztorc"
         ],
         "filenames": [
           "symlink",
-          "zshrc",
-          "zshenv",
           "zlogin",
           "zlogout",
+          "zpreztorc",
           "zprofile",
-          "zpreztorc"
+          "zshenv",
+          "zshrc"
         ]
       }
     ]
