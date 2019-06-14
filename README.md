@@ -1,7 +1,7 @@
 # Dotfiles Syntax Highlighting for VS Code
 
 [![vsmarketplacebadge](https://flat.badgen.net/vs-marketplace/i/dotiful.dotfiles-syntax-highlighting)](https://marketplace.visualstudio.com/items?itemName=dotiful.dotfiles-syntax-highlighting)
-[![github-release](https://flat.badgen.net/github/release/dotiful/vscode-dotfiles-syntax)](https://github.com/dotiful/vscode-dotfiles-syntax/releases/tag/v0.0.1)
+[![github-release](https://badgen.net/github/release/dotiful/vscode-dotfiles-syntax/stable)](https://github.com/dotiful/vscode-dotfiles-syntax/releases/tag/v0.1.0)
 [![license](https://flat.badgen.net/github/license/dotiful/vscode-dotfiles-syntax)](https://github.com/dotiful/vscode-dotfiles-syntax/blob/master/LICENSE.md)
 
 ## Features
@@ -9,7 +9,7 @@
 Provides syntax highlighting for dotfiles.
 
 Inspired by [Sublime Text](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
-© [@mattbanks](https://github.com/mattbanks).
+package by [@mattbanks](https://github.com/mattbanks).
 
 Contributions are greatly appreciated. Please fork this repository and open a
 PR to add more file extensions, tweaks, etc.
@@ -69,13 +69,7 @@ PR to add more file extensions, tweaks, etc.
 
   </details>
 
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 0.1.0
-
-Initial release
+## [CHANGELOG](/CHANGELOG.md)
 
 ## License
 
