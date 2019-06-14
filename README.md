@@ -69,13 +69,7 @@ PR to add more file extensions, tweaks, etc.
 
   </details>
 
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 0.1.0
-
-Initial release
+## [CHANGELOG](/CHANGELOG.md)
 
 ## License
 
