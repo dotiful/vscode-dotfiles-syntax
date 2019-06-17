@@ -3,6 +3,7 @@
 [![vsmarketplacebadge](https://flat.badgen.net/vs-marketplace/i/dotiful.dotfiles-syntax-highlighting)](https://marketplace.visualstudio.com/items?itemName=dotiful.dotfiles-syntax-highlighting)
 [![github-release](https://badgen.net/github/release/dotiful/vscode-dotfiles-syntax/stable)](https://github.com/dotiful/vscode-dotfiles-syntax/releases/tag/v0.1.0)
 [![license](https://flat.badgen.net/github/license/dotiful/vscode-dotfiles-syntax)](https://github.com/dotiful/vscode-dotfiles-syntax/blob/master/LICENSE.md)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdotiful%2Fvscode-dotfiles-syntax.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdotiful%2Fvscode-dotfiles-syntax?ref=badge_shield)
 
 ## Features
 
@@ -74,3 +75,6 @@ PR to add more file extensions, tweaks, etc.
 ## License
 
 MIT © [Art Dev](https://github.com/dotiful)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdotiful%2Fvscode-dotfiles-syntax.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdotiful%2Fvscode-dotfiles-syntax?ref=badge_large)
