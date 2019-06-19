@@ -51,7 +51,6 @@
           "inputrc",
           "jshintignore",
           "npmignore",
-          "npmrc",
           "osx",
           "packages",
           "path",
@@ -78,6 +77,12 @@
         "id": "ruby",
         "aliases": [ "Ruby", "ruby" ],
         "extensions": [ "gemrc" ]
+      },
+      {
+        "id": "ini",
+        "aliases": [ "npmrc", "ini" ],
+        "extensions": [ "npmrc" ],
+        "filenames": [ "npmrc" ]
       }
     ]
   },
