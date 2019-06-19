@@ -88,11 +88,9 @@
   },
   "homepage": "https://github.com/dotiful/vscode-dotfiles-syntax/blob/master/README.md",
   "scripts": {
-    "build-package": "vsce package",
-    "release": "release-it"
+    "build-package": "vsce package"
   },
   "devDependencies": {
-    "release-it": "^12.3.0",
     "vsce": "^1.62.0"
   }
 }

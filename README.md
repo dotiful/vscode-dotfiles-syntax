@@ -1,8 +1,8 @@
 # Dotfiles Syntax Highlighting for VS Code
 
-[![vsmarketplacebadge](https://flat.badgen.net/vs-marketplace/i/dotiful.dotfiles-syntax-highlighting)](https://marketplace.visualstudio.com/items?itemName=dotiful.dotfiles-syntax-highlighting)
-[![github-release](https://badgen.net/github/release/dotiful/vscode-dotfiles-syntax/stable)](https://github.com/dotiful/vscode-dotfiles-syntax/releases/tag/v0.1.0)
-[![license](https://flat.badgen.net/github/license/dotiful/vscode-dotfiles-syntax)](https://github.com/dotiful/vscode-dotfiles-syntax/blob/master/LICENSE.md)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/dotiful.dotfiles-syntax-highlighting.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=dotiful.dotfiles-syntax-highlighting)
+[![GitHub release](https://img.shields.io/github/release/dotiful/vscode-dotfiles-syntax.svg?style=flat-square)](https://github.com/dotiful/vscode-dotfiles-syntax/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/dotiful/vscode-dotfiles-syntax.svg?style=flat-square)](https://github.com/dotiful/vscode-dotfiles-syntax/blob/master/LICENSE.md)
 
 ## Features
 
@@ -69,7 +69,9 @@ PR to add more file extensions, tweaks, etc.
 
   </details>
 
-## [CHANGELOG](/CHANGELOG.md)
+## Release History
+
+See [CHANGELOG](./CHANGELOG.md)
 
 ## License
 
