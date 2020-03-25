@@ -1,0 +1,47 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "Xmodmap",
+  "patterns": [
+    {
+			"include": "#comments"
+		},
+    {
+      "include": "#keywords"
+    },
+    {
+			"include": "#strings"
+		}
+  ],
+  "repository": {
+    "comments": {
+      "name": "comment.line.xmodmap",
+      "match": "!(.*)$"
+    },
+    "keywords": {
+			"captures": {
+				"1": {
+					"name": "keyword.definition.xmodmap"
+				},
+				"2": {
+					"name": "constant.numeric.xmodmap"
+				},
+				"3": {
+					"name": "punctuation.decorator.xmodmap"
+				}
+			},
+			"match": "(^[a-z]+\\s+)\\b([a-zA-Z0-9_.-]+)\\b\\s*(=)"
+		},
+    "strings": {
+			"name": "string.quoted.double.cfg",
+			"begin": "\"",
+			"end": "\"",
+			"patterns": [
+				{
+					"name": "variable",
+					"match": "\\\\."
+				}
+			]
+		}
+  },
+  "scopeName": "source.xmodmap"
+}

@@ -1,7 +1,7 @@
 {
   "name": "dotfiles-syntax-highlighting",
   "displayName": "Dotfiles Syntax Highlighting",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "dotiful",
   "description": "Provides syntax highlighting for dotfiles",
   "categories": [ "Programming Languages" ],
@@ -62,11 +62,11 @@
 					"symlink",
 					"wgetrc",
 					"xbindkeysrc",
-					"Xmodmap",
 					"xsession",
 					"xsessionrc",
 					"zpreztorc",
-					"zshrc.local"
+					"zshrc.local",
+          "xinitrc"
 				],
 				"filenames": [
 					"bash_colors",
@@ -92,6 +92,20 @@
         "aliases": [ "npmrc", "ini" ],
         "extensions": [ "npmrc" ],
         "filenames": [ "npmrc" ]
+      },
+      {
+        "id": "xmodmap",
+        "aliases": [ "Xmodmap", "xmodmap" ],
+        "extensions": [ "Xmodmap" ],
+        "filenames": [ "Xmodmap" ],
+        "configuration": "./xmodmap-config.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "xmodmap",
+        "scopeName": "source.xmodmap",
+        "path": "./syntaxes/xmodmap.tmLanguage.json"
       }
     ]
   },
